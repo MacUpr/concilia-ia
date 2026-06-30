@@ -10,6 +10,23 @@
 
 ---
 
+## Identificação
+
+**Projeto:** Pedido de Conciliação — Saúde Suplementar (TJMS)
+
+**Grupo 02 — Integrantes**
+
+| # | Nome |
+|---|------|
+| 1 | Eraldo Júnior |
+| 2 | Suelen Maciel |
+| 3 | Cleiton Carlos da Silva |
+| 4 | Filipe Ferreira Falco |
+| 5 | Luiz Eduardo Dos Santos Sousa |
+| 6 | Abellard Christley Mainviel |
+
+---
+
 ## 1. Introdução
 
 A judicialização de demandas de **saúde suplementar** (negativas de cobertura,
