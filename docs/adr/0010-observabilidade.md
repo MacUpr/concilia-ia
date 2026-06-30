@@ -69,4 +69,4 @@ Adotar os três pilares de observabilidade:
 ## References
 
 - [ADR-0007 — Processamento assíncrono de IA](0007-processamento-assincrono-de-ia.md)
-- [arquitetura.md — Seção 10 (RNFs) e Seção 14 (Evolução)](../arquitetura.md)
+- [arquitetura.md — Seção 7 (RNFs) e Seção 11 (Evolução)](../arquitetura.md)

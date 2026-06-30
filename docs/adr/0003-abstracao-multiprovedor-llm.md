@@ -66,4 +66,4 @@ _fallback_ entre provedores.
 
 ## References
 
-- [arquitetura.md — Seção 6 (Componentes: Gateway de LLM)](../arquitetura.md)
+- [arquitetura.md — Seção 5 (Containers)](../arquitetura.md)

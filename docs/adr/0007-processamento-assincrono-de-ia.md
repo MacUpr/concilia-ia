@@ -67,4 +67,4 @@ _polling_ (`GET /sugestoes/{id}`) ou _webhook_/_callback_.
 ## References
 
 - [ADR-0006 — Redis para cache e fila](0006-redis-cache-e-fila.md)
-- [arquitetura.md — Seção 7 (Fluxo Dinâmico)](../arquitetura.md)
+- [arquitetura.md — Seção 5 (Containers)](../arquitetura.md)

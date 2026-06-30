@@ -66,4 +66,4 @@ original da IA e a ação do conciliador são registradas para auditoria
 
 ## References
 
-- [arquitetura.md — Seção 7 (Fluxo Dinâmico) e Seção 9 (Uso de IA)](../arquitetura.md)
+- [arquitetura.md — Seção 6 (Uso de IA)](../arquitetura.md)

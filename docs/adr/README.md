@@ -26,4 +26,4 @@ padrão [MADR](https://adr.github.io/madr/).
 2. Numere sequencialmente (`00NN-titulo-curto.md`).
 3. Nunca edite a decisão de um ADR aceito: crie um novo ADR que o **substitui**
    e atualize o status do antigo para `Substituído por ADR-XXXX`.
-4. Atualize esta tabela e a seção 11 de [`../arquitetura.md`](../arquitetura.md).
+4. Atualize esta tabela e a seção 8 de [`../arquitetura.md`](../arquitetura.md).
