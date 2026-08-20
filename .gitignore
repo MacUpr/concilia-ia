@@ -1,0 +1,5 @@
+# Ambiente virtual e artefatos Python locais.
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
